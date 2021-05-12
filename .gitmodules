@@ -2,3 +2,7 @@
 	path = submodule-test
 	url = https://github.com/marcelsavegnago/submodule-test.git
 	branch = master
+[submodule "fleet"]
+	path = fleet
+	url = https://github.com/oca/fleet
+	branch = 12.0
